@@ -13,8 +13,6 @@ void outputPoint(double x, double y) {
     cout << '(' << x << ", " << y << ')' << '\n';
 }
 
-
-
  int main(void) {
    
     double x1, y1, x2, y2;
